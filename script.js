@@ -33,22 +33,23 @@ const MOVIES_DATA = [
         watch_url: "https://ornekizleme-sitesi.com",
         desc: "Çok yetenekli bir hırsız olan Dom Cobb, insanların rüya gördüğü sırada bilinçaltının derinliklerindeki sırları çalmakta uzmandır."
     },
-     {
+    {
         id: 4,
-        title: "mission kashmir",
-        genre: "Aksiyon",
+        title: "kaşmir baskını",
+        genre: "aksiyon",
         year: "2000",
         rating: "6.6",
-        image: "resim_linki",
-        trailer: "",
-        watch_url: https://dn711303.ca.archive.org/0/items/mission-kashmir-2000-dv-drip-charme-leon-silver-rg/Mission%20Kashmir%202000%20DvDRip%20CharmeLeon%20Silver%20RG.mp4
-        desc: "Film açıklaması."
+        image: "https://turkcealtyazi.org/film/200/0248185.jpg",
+        trailer: "https://youtube.com",
+        watch_url: "https://dn711303.ca.archive.org/0/items/mission-kashmir-2000-dv-drip-charme-leon-silver-rg/Mission%20Kashmir%202000%20DvDRip%20CharmeLeon%20Silver%20RG.mp4", // BURAYA GERÇEK FİLM LİNKİNİ YAZACAKSIN
+        desc: "Yıllardır kanayan bir yara olan Kashmir bölgesinde Müslüman polis teşkilatında çalışan Sanjay, peşine düştüğü azılı bir teröristle savaşırken kazara, gene Müslüman olan bir ailenin, Altaaf adlı bir bebek hariç, tümünün ölmesine neden olur.Kısa bir süre önce kendi bebeğini de kaybetmiş olan Sanjay, karısının ısrarları üzerine bu bebeği evlatlık edinir. Ailesini öldüren maskeli kişiyi kabuslarında gören Altaaf, o maskeli kişinin kendisini evlatlık edinen Sanjay olduğunu öğrenince, intikam yemini ederek oradan kaçar.Yıllar sonra tam bir savaş makinesi haline gelmiş acımasız bir savaşçı olarak geri dönen Altaaf, nasıl bir intikam alacağını planlamaya başlar"
     }
-
-
+  ];
+  
+  
     
 
-];
+
 
 
 
