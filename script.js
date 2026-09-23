@@ -36,7 +36,7 @@ const MOVIES_DATA = [
     {
         id: 4,
         title: "kaşmir baskını",
-        genre: "aksiyon",
+        genre: "Aksiyon",
         year: "2000",
         rating: "6.6",
         image: "https://turkcealtyazi.org/film/200/0248185.jpg",
