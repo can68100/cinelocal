@@ -40,7 +40,7 @@ const MOVIES_DATA = [
         year: "2000",
         rating: "6.6",
         image: "resim_linki",
-        trailer: "https://youtu.be/dHXOdL7SMuA?si=GNeqjyIVCsb2CEHM",
+        trailer: "",
         watch_url: https://dn711303.ca.archive.org/0/items/mission-kashmir-2000-dv-drip-charme-leon-silver-rg/Mission%20Kashmir%202000%20DvDRip%20CharmeLeon%20Silver%20RG.mp4
         desc: "Film açıklaması."
     }
